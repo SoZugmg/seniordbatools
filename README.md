@@ -1,4 +1,3 @@
-/*
 =========================================================
 PBI 595486 - Plan of Work Table Removal
 STEP 1 of 3: RENAME the PoW tables (reversible)
